@@ -1,0 +1,419 @@
+body{
+background-color: white ;
+    margin: 0;
+    font-family: 'DM Sans' !important;
+   height: 13411px;
+
+}
+.other{
+    background: linear-gradient(transparent 60%, rgba(0, 0, 0, 0.55) 100%) !important;
+    height: 100%;
+    width: 100%;
+}
+.elementossf{
+    color:  rgb(125, 125, 125) !important;
+}
+.backblue{
+    width: 100%;
+    height: 310px;
+    background-color: rgb(0, 20, 137) !important;
+    color: rgb(255, 255, 255) !important;
+}
+.icone{
+    top: -5rem;
+    color: white !important;
+    margin-left: 2rem;
+}
+.listamju{
+    left: -13rem;
+    top: -6rem;
+}
+.mili{
+    top: -6rem;
+}
+.colep{
+    color: rgb(0, 20, 137) !important ;
+}
+.add{
+    top: -12.4rem !important;
+    left: 17rem !important;
+
+    font-size: 0.1rem !important;
+}
+.donwcirc{
+    top: -15rem !important;
+}
+.containermoviescompl{
+    top: -262rem;
+}
+.apicons{
+    color: black;
+    font-size: 1rem;
+    font-family: 'DM Sans' !important;
+    
+    
+}
+.principalContainer{
+    width: 100%;
+}
+.imagen{
+    width: 100%;
+}
+.novissible{
+    visibility: hidden;
+}
+.menud{
+    position: relative !important;
+    top: 0.1rem !important;
+}
+.search{
+    border: 0;
+    background-color: transparent;
+}
+.carfd{
+    top: 12rem;
+    color: white;
+   font-size: 0.98rem;
+}
+.titled{
+    top: 11rem;
+    font-weight: bold;
+    font-size: 3.5rem;
+    color: white;
+}
+.principalContainer{
+    top: -13rem;
+    color: white;
+}
+.njdd{
+    top: -20rem;
+    color: white;
+}
+.move{
+    position: relative;
+    top: -1rem;
+}
+.styldd{
+    border-radius: 1.5rem;
+    height: 3rem;
+    width: 6rem;
+    border: none;
+    background-color: white !important;
+    
+}
+.play{
+    position: relative !important;
+    top: 0.5rem !important;
+    font-weight: bold;
+}
+.more{
+   font-size: 2rem !important ;
+   position: relative;
+   top: 0.4rem;
+}
+.carousselcontaine{
+    position: relative;
+    top: -22.9rem !important;
+    font-family:  'DM Sans', sans-serif !important;;
+}
+.showt{
+    position: relative;
+    top: -21.9rem;
+    
+
+}
+.tittle-no{
+    font-size: 0.7rem;
+    font-weight: bold;
+}
+.descriptionmovie {
+    top: -5rem;
+    left: 1rem;
+    color: white;
+    font-size: 0.8rem;
+}
+.descriptionmovie h3{
+    font-weight: bold;
+    font-size: 1.3rem !important;
+}
+.d{
+   margin-top: -5rem; 
+}
+.r{
+    margin-left: -1rem;
+}
+.l{
+    margin-right: -1rem !important;
+}
+
+.aftersun {
+        top: -24.5rem;
+          
+}
+
+.enllamas{
+
+top: -54rem;
+}
+.enllamas P{
+    color: white;
+    
+}
+.llamaspt{
+    margin-left:9.5rem ;
+}
+.llamasimg{
+   margin-left: 9.5rem;
+}
+.enllamasimg {
+    width: 100%;
+    height: 645px;
+}
+.sectionmove{
+    top: -37rem;
+}
+.deniroimg{
+    width: 100%;
+    
+}
+.deniro{
+    top: -86.7rem;
+
+}
+.deniro p{
+    color: white;
+}
+.principalbutton{
+    width: 10rem;
+}
+.bestpictures{
+    position: relative;
+    top: -121.5rem;
+}
+.tendecia{
+    position: relative;
+    top: -123.5rem;
+}
+.leones{
+    top: -127em;
+}
+.cannes{
+    top: -129rem;
+}
+.lasfabulasimg{
+    width: 100%;
+    height: 769px;
+}
+.fabulasargentinas{
+    top: -131.8rem;
+}
+.fabulascontainter{
+    top: -45rem;
+}
+.showsargetina{
+    top: 10rem;
+   
+}
+.fabulascontainter  p{
+    margin-left: 7.5rem;
+    color: white ;
+}
+.fabulascontainter  h3{
+    margin-left: 7.5rem;
+    color: white ;
+}
+.DESTACADOSMUBI{
+top: -166rem;
+}
+.destacadomovie{
+    top: -57rem;
+    
+}
+
+.pmuestrat{
+    margin-left: 17rem;
+    color: white; 
+}
+.pmuestr{
+    margin-left: 17rem;
+    color: white;
+}
+
+.showdatcadosmubi{
+    top: 20rem;
+    margin-left: 7.5rem;
+}
+.fabulascontainter{
+    margin-left: 7.5rem;
+}
+.imgdestacado{
+    width: 100%;
+}
+.mubifest{
+    top: -193.2rem;
+}
+.anadidasrecientemnte{
+    top: -196rem;
+    
+}
+.os{
+    top: -196rem;
+   left: -1.3rem;
+}
+.yeloscarespara {
+    top: -198.5rem;
+    left: -1.5rem;
+}
+.focofestivales{
+    top: -201rem;
+    left: -1.2rem;
+}
+.debuts{
+    top: -203rem;
+    left: -1.2rem;
+}
+.festivalbafeci{
+    top: -205rem;
+    left: 1rem;
+}
+.favoritosfestival{
+    top: -207rem;
+      left: -1.2rem;
+}
+.terror{
+    top: -209rem;
+}
+.aftersun p{
+    color: white;
+}
+.estrnosmu{
+    left: 10rem;
+    top: -38rem;
+}
+.estrenosps{
+    top: -37rem;
+    margin-left: 10rem;
+}
+.estrenomubis{
+    top: -30rem;
+    margin-left: 7.5rem;
+}
+.imagenprinciapalafter{
+    width: 100%;
+}
+.talentsalva{
+    top: 5rem;
+   margin-left: 7.5rem;
+}
+.deniro80{
+  top: -10rem;
+  position: relative;
+  margin-left: 9.5rem ;
+}
+.destacadodenir{
+    top: -10rem;
+    position: relative;
+    margin-left: 9.5rem;
+}
+.denirop{
+    top: -10rem;
+    margin-left: 9.5rem;
+}
+.denirocarruse{
+    margin-left: 7.5rem;
+}
+.buttondeniro{
+    border-radius: 1.5rem;
+    height: 3rem;
+    width: 6rem;
+    margin-left: 9rem;
+    position: relative;
+    top: -7.8rem;
+}
+
+.vers{
+    top: 0.5rem;
+    color: black !important;
+}
+.mepario{
+    top: -208.6rem;
+}
+.adpataciones{
+    top: -211.6rem;
+}
+.destacadosmubi3{
+    top: -213.9rem;
+}
+.acogerlainfamia3{
+    top: -216.4rem;
+}
+.reencuadremujeres{
+    top: -218.6rem;
+}
+.focoenfestivales{
+    top: -220.8rem;
+}
+.obrasmaestra90{
+    top: -224rem;
+}
+.actodoblenina{
+    top: -226.8rem;
+}
+.conanimodeamar{
+    top: -229.6rem;
+}
+.eldolordehacersemayor{
+    top: -232.2rem;
+}
+.amorprohibido{
+    top: -234.5rem;
+}
+.talento{
+    top: -236.8rem;
+}
+.denirolos80{
+    top: -238.9rem;
+}
+.davidlynch{
+    top: -241rem;
+}
+.orgullosinprejuicio{
+    top: -244rem;
+}
+.focofestivalesrotterdam{
+    top: -246.6rem;
+}
+.mubipodcast{
+    top: -249rem;
+}
+.terrohalloween{
+    top: -251.5rem;
+}
+.cinemexicano{
+    top: -253.9rem;
+}
+.amorwongkarwai{
+    top: -256.2rem;
+}
+.peliculascondenominaciondeorigen{
+    top: -258.4rem;
+}
+.viendodoble{
+    top: -260.7rem;
+}
+.moveplay{
+    position: relative;
+    text-align: center;
+    font-size: 2.5rem !important;
+    left: 36%;
+    top: -6rem;
+}
+.moveplay:hover{
+    color: blue !important;
+}
+.hidden{
+    visibility: hidden;
+}
+.visibility{
+    visibility: visible !important;
+}
